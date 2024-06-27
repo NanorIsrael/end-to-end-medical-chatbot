@@ -1,7 +1,12 @@
 ctransformers
+torch
 sentence-transformers
 pinecone-client
 langchain
 flask
 langchain-community 
 langchain-core
+langchain-pinecone
+python-dotenv
+
+-e .
